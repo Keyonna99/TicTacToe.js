@@ -16,15 +16,14 @@ A simple web-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - Highlights winning line
 - Reset button to start a new game
 
-  ## 🚀 Live Demo
-  Will be displayed using Gitup Pages
-
 ## 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## How to Run
+## 🚀 Live Demo
+play here: https://keyonna99.github.io/TicTacToe.js/
 
-1. Clone this repository: https://keyonna99.github.io/TicTacToe.js/
-
+## 👩🏽‍💻 Author
+Ke’Yonna Bass  
+Computer Engineering Graduate
