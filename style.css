@@ -33,10 +33,6 @@ input {
     cursor: pointer;
     background-color:#000000;
 }
- 
-.cell:hover { 
-    background-color:pink;
-}
 
 button { 
     padding: 10px 20px;
