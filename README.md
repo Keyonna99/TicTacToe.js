@@ -17,4 +17,5 @@ This project demonstrates interactive web development, game logic, and basic use
 - JavaScript
 
 ## How to Run
-1. Clone this repository:
+
+1. Clone this repository: https://keyonna99.github.io/TicTacToe.js/
