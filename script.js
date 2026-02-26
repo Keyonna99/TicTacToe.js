@@ -1,3 +1,4 @@
+console.log("JS is connected");
 let board = ["", "", "", "", "", "", "", "", ""];
 let currentPlayer = "X";
 let player1Name = "";
@@ -83,4 +84,5 @@ function resetBoard() {
 resetBtn.addEventListener("click", resetBoard);
 
 // Initialize turn display
+
 updateTurnDisplay();
