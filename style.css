@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color:pink
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 10px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+/* Turn display text */
+#turnDisplay {
+    margin: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* Player names input section */
+#player-names {
+    margin-bottom: 20px;
+}
+
+#player-names input {
+    padding: 5px 10px;
+    margin: 0 5px 10px 5px;
+    font-size: 1em;
+    width: 120px;
+}
+
+#player-names label {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+#player-names button {
+    padding: 5px 15px;
+    font-size: 1em;
+    cursor: pointer;
+}
