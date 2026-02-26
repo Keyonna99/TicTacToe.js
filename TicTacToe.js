@@ -76,7 +76,7 @@ function resetBoard() {
     board = ["", "", "", "", "", "", "", "", ""];
     currentPlayer = "X";
     cells.forEach(cell => cell.textContent = "");
-    updateTurnDisplay();
+    updatet/urnDisplay();
 }
 
 // Reset button
