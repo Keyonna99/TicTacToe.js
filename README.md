@@ -1,17 +1,25 @@
 # Tic Tac Toe Game
 
 ## Description
-A simple web-based Tic Tac Toe game built with HTML, CSS, and JavaScript.  
-Players can play against each other on the same computer.  
-This project demonstrates interactive web development, game logic, and basic user interface design.
+A simple web-based Tic Tac Toe game built with HTML, CSS, and JavaScript. 
+ 
+  This project allows two players to:
+- Enter their names
+- Take turns placing X and O
+- Automatically switch turns
+- Restart the game
 
-## Features
-- Two-player gameplay on the same device
+## ✨ Features
+- Two-player gameplay
+- Player name input
 - Interactive 3x3 game board
 - Highlights winning line
 - Reset button to start a new game
 
-## Technologies Used
+  ## 🚀 Live Demo
+  Will be displayed using Gitup Pages
+
+## 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
@@ -19,3 +27,4 @@ This project demonstrates interactive web development, game logic, and basic use
 ## How to Run
 
 1. Clone this repository: https://keyonna99.github.io/TicTacToe.js/
+
