@@ -27,3 +27,4 @@ play here: https://keyonna99.github.io/TicTacToe.js/
 ## 👩🏽‍💻 Author
 Ke’Yonna Bass  
 Computer Engineering Graduate
+
